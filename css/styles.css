@@ -1,0 +1,185 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h1, h2,h3,h4,h5,h6{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;   
+}
+
+p{
+    color: #8F8F8F;
+  
+    
+}
+
+hr{
+    
+    
+    background-color: white;
+    border: dotted #66BFBF 8px;
+	border-bottom: none;
+	width: 40%;
+	margin: auto;
+    
+    
+}
+
+/* Headings */
+
+.big-heading{
+    font-family: 'Montserrat', sans-serif;   
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+.section-heading{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+/* Containers */
+
+.container-fluid{
+    padding: 7% 15%;
+}
+
+
+/* Sections */
+
+.colored-section{
+    background-color: #66BFBF;
+    color: white;
+}
+
+.withe-section{
+    background-color: white;
+}
+
+
+
+
+
+/* Navigation Bar */
+
+.navbar{
+    padding: 0 0 4.5rem;
+}
+
+.navbar-brand{
+    font-family: "Ubuntu" ;
+    font-size: 2.3rem;
+    font-weight: bold;
+    
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat";
+    font-weight: 400;
+}
+
+
+
+/* Title Section */
+
+
+#title .container-fluid{
+    padding: 3% 15% 7%;
+    text-align: left;
+}
+.title-image-container{
+   
+    position: relative;
+}
+
+.tittle-image{
+  
+   width: 60%;
+   position: relative;
+   left: 26%; 
+   
+}
+
+/* Features Section */
+
+#features{
+    
+    position: relative;  
+}
+
+.feature-box{
+    
+    padding: 2%;
+}
+
+.feature-icon{
+    color: #F76B8A ;
+    margin-bottom: 1rem;
+}
+
+.feature-icon:hover{
+    color: #66BFBF;
+    
+}
+.feature-tittle{
+    font-size: 1.5rem;
+}
+.feature-text{
+    padding: 1% 6%;
+}
+
+
+
+
+
+
+/* Project Section */
+#project{
+   padding: 100px; 
+   
+}
+
+.project-text{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.project-column{
+    padding: 3% 2%
+}
+.card{
+    padding-top: 2%;
+}
+
+.project-image{
+  
+    width: 60%;
+    margin: auto;
+    
+    
+ }
+
+
+
+
+     
+
+
+
+.footer-icon{
+    margin: 20px 10px;
+}
+
+
+
+
+
+
+
